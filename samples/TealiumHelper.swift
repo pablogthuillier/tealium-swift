@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import tealium_swift
 
 extension String : Error {}
 
